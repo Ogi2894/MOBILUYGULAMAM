@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765623319374",
+    "project_id": "mobilsikayets-5a40d",
+    "storage_bucket": "mobilsikayets-5a40d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765623319374:android:cc7933417345107c6afc1f",
+        "android_client_info": {
+          "package_name": "com.example.mypp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765623319374-juidl36afqtmvn1npjm5buf8e74nahs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzdM3KLTxrPRNUyk06Ecxebd6EXucg0s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765623319374-juidl36afqtmvn1npjm5buf8e74nahs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
